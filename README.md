@@ -1,4 +1,4 @@
-# VAD Segmeter
+# VAD Segmenter
 
 This is a tool to segment WAV files using WebRTC's Voice Activity Detector (VAD)
 
